@@ -2,3 +2,5 @@ node_modules/
 package-lock.json
 dist/
 .DS_Store
+counter_tests/node_modules/
+counter_tests/package-lock.json
